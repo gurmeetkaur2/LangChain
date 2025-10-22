@@ -26,11 +26,11 @@ prompt=ChatPromptTemplate.from_messages(
 )
 
 # streamlit framework
-st.title("LangChain Demo With Llama2 API")
+st.title("LangChain Demo With Llama3.2 API")
 input_text=st.text_input("Search the topic you want")
 
 #open AI LLM call
-llm=ollama(model="llama2")
+llm=ollama(model="llama3.2")
 output_parser=StrOutputParser()
 
 # chain
