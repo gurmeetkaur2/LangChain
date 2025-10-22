@@ -1,4 +1,4 @@
-# LANGCHAIN_API_KEY="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"
+# LANGCHAIN_API_KEY="lsv2_xxx"
 # OPENAI_API_KEY="sk-xxx"
 # LANGCHAIN_PROJECT="chatbot-first"
 
